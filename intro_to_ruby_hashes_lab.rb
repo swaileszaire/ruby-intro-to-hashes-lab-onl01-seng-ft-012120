@@ -3,9 +3,9 @@ powers = {}
 end
 
 def actor
-actor = (
+actor = {
 :name=> ["Brit Marling"]
-)
+}
 end
 
 def monopoly = { 
